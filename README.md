@@ -19,6 +19,7 @@ this project is need to be contributed
 
 ## How to sell
 
+this is simple for how to teach
 
 ## How to reach 
 
