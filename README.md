@@ -8,6 +8,8 @@ there is a simple description
 
 ## Purpose
 
+there is simple purpose for website project
+
 ## Deployment
 
 ## How To Contribute
