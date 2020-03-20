@@ -15,3 +15,12 @@ there is simple purpose for website project
 there is simple deployment for the purpose of the project
 
 ## How To Contribute
+this project is need to be contributed
+
+## How to sell
+
+
+# How to teach
+
+
+## How to Classify
