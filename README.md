@@ -12,4 +12,6 @@ there is simple purpose for website project
 
 ## Deployment
 
+there is simple deployment for the purpose of the project
+
 ## How To Contribute
