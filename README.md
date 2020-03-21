@@ -16,7 +16,7 @@ there will be the most simple deployment for the purpose of the project
 
 ## How To Contribute
 
-this is how contributed stage is
+Please fork this repository and then issue Pull requests for review
 
 ## How to sell
 
