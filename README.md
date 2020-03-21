@@ -12,16 +12,23 @@ there is simple purpose for website project
 
 ## Deployment
 
-there is simple deployment for the purpose of the project
+there will be the most simple deployment for the purpose of the project
 
 ## How To Contribute
-this project is need to be contributed
+
+this is how contributed stage is
 
 ## How to sell
 
 this is simple for how to teach
 
 ## How to reach 
+
+this will tell how to reach
+
+
+
+
 
 
 
