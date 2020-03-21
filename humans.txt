@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Surya Prakash surya@git.training @Rckngsurya
 
 # THANKS
 
