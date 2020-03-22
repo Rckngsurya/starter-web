@@ -28,7 +28,7 @@ this is simple for how to teach
 
 this will tell how to reach
 
-2014 Git Training.
+2014 Git Training.All rights are reserved.
 
 
 
