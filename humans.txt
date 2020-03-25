@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Surya Prakash surya@git.training @Rckngsurya
+
+# THANKS
+
+    Thanks to all my students
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+	Git
